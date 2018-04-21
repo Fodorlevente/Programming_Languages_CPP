@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524345344 source:c:\users\levi\desktop\munka\c++\templatededuction\main.cpp
+	<iostream>
+	"deduct.h"
+
+1524345383 c:\users\levi\desktop\munka\c++\templatededuction\deduct.h
+
