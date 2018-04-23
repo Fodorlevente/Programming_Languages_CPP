@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524499184 source:c:\users\levi\desktop\munka\c++\vector\main.cpp
+	<iostream>
+	"vector.h"
+
+1524499222 c:\users\levi\desktop\munka\c++\vector\vector.h
+	<vector>
+
